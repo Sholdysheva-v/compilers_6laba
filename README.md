@@ -35,3 +35,14 @@ string pattern = @"\b("
 Пример 3:
 
 ![image](https://github.com/user-attachments/assets/68b97b32-36f8-452e-9f06-7cbe28eb7d9c)
+
+Дополнительное задание
+
+Граф автомата: 
+
+![6 лаба drawio (1)](https://github.com/user-attachments/assets/928f8e67-c70a-43f2-abe4-75e2b5473469)
+
+
+Тестовый пример: 
+![image](https://github.com/user-attachments/assets/865be479-1e92-4207-8c87-f2a41959bc05)
+
